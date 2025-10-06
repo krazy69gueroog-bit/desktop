@@ -1,4 +1,5 @@
-GitHub takes the security of our software products and services seriously, including the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
+GitHub takes the security of our software products and services seriously, including the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/Gitincludes/MainConfigSchema.php
+Hub).
 
 If you believe you have found a security vulnerability in this GitHub-owned open source repository, you can report it to us in one of two ways.
 
